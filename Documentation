@@ -1,5 +1,5 @@
 DOCUMENTATION FOR ALARM USING PYTHON [Software]
-- BY ABHIJITH DAMERUPPALA
+- BY ALANKRUTHA REDDY
 
 This is a GUI and API Based project. While running, it will notify you with an alarm and will also text you an SMS on the number specified.
 (Audio File is also uploaded)
